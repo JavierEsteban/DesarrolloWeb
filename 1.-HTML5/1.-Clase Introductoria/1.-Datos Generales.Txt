@@ -1,0 +1,8 @@
+Etiquetas básicas de HTML:
+
+* Head
+* Nav
+* Body
+* Section
+* Footer
+

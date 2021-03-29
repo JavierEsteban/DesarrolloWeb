@@ -1,0 +1,29 @@
+*{
+    background-color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:link {
+    color:red;
+  }
+
+  a:hover {
+    color:green;
+    text-decoration:none;
+    font-size: 120%;
+  }
+
+  a:visited {
+    color:rgb(174, 96, 247);
+  }
+  a:active {
+    color:rgb(0, 238, 255);
+  }
+h1{
+    text-align: center;
+    color: orange;
+    text-decoration: peru;
+    font-size: 30px;
+}
+li {
+    font-size:15px;
+  }

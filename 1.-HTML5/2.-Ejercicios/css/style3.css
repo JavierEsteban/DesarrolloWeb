@@ -1,0 +1,25 @@
+
+h1{
+    text-align: center;
+}
+h1:hover
+{
+    color: green;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+img:hover
+{
+    display:block;
+    background-color: rgb(108, 110, 245);
+    width: 250px;
+    height: 250px;
+}
+
+.Subtitulo{
+    font-size: 25px;
+    color: lightslategray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
